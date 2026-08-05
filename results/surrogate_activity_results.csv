@@ -1,0 +1,2 @@
+Run Mode,Training Samples,Testing Samples,Accuracy,Macro Precision,Macro Recall,Macro F1,Weighted F1
+small_cpu,600,300,0.5966666666666667,0.6183031122320624,0.5966666666666668,0.5425568521453247,0.5425568521453247
