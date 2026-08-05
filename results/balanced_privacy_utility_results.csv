@@ -1,0 +1,7 @@
+Timestep,Samples,Activity Accuracy,Activity Macro F1,Gender Accuracy,Gender Macro F1,Mean Absolute Change,Mean Squared Change,Root Mean Squared Change,Activity Accuracy Change,Gender Accuracy Change
+Raw,240,0.3083,0.3017,0.5,0.3333,0.0,0.0,0.0,-0.0,0.0
+5,240,0.3083,0.302,0.5,0.3333,0.0481,0.0042,0.065,-0.0,0.0
+10,240,0.3042,0.297,0.5,0.3333,0.0803,0.0122,0.1103,-0.0041,0.0
+20,240,0.3167,0.3097,0.5,0.3333,0.1338,0.0344,0.1855,0.0084,0.0
+30,240,0.3083,0.3018,0.5,0.3333,0.1827,0.0641,0.2531,-0.0,0.0
+40,240,0.3208,0.3153,0.5,0.3333,0.2302,0.1012,0.3182,0.0125,0.0
